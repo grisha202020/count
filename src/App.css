@@ -1,0 +1,16 @@
+.counter{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  gap: 1em;
+}
+.counter button{
+  width: 120px;
+  height: 25px;
+  border: none;
+  background-color: indigo;
+  color: black;
+  font-size: 16px;
+  border-radius: 10px;
+} 
